@@ -1,0 +1,19 @@
+{
+    "name": "seanbreeden/configunavailablefix",
+    "description": "Workaround for 'Selected option(s) or their combination are not currently available' error during Re-order in Magento 2.4.x and Mage-OS 1.0.x",
+    "authors": [
+        {
+            "name": "Sean Breeden",
+            "email": "info@seanbreeden.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "SeanBreeden\\ConfigUnavailableFix\\": ""
+        }
+    }
+}
