@@ -55,7 +55,6 @@ Since the error block depends on the <strong>has_configuration_unavailable_error
     <?php
     namespace SeanBreeden\ConfigUnavailableFix\Plugin\Quote;
 
-    <code>
     class ItemPlugin
     {
         /**
